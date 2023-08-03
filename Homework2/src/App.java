@@ -5,12 +5,10 @@ import Homework2.Task3.TestNumbers;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        PositivNumber.run();
-        Division.run();
-        TestNumbers.run();
-
-        
-
+        // PositivNumber.run();
+        // Division.run();
+        // TestNumbers.run();
+ 
     }
 }
 
